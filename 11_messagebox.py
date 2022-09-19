@@ -14,7 +14,7 @@ def warn():
   msgbox.showwarning("경고", "해당 좌석은 매진되었습니다.")
 
 def error():
-  msgbox.showerror()("에러", "결제 오류가 발생했습니다.")
+  msgbox.showerror("에러", "결제 오류가 발생했습니다.")
 
 def okcancel():
   msgbox.askokcancel("확인 / 취소", "해당 좌석은 유아 동반석입니다. 예매하시겠습니까?")
