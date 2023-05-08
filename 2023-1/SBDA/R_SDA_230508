@@ -1,0 +1,91 @@
+# 230508 통계기반데이터분석
+
+Data_Midterm $ Enter2 <- as.integer(Enter)
+
+Data_Midterm $ E2 <- ifelse(Data_Midterm $ Enter2 < 2020, 0, 1)
+
+# D_1
+ 
+mean(Total)
+
+qt(0.975, 29)
+
+qt(0.025, 29)
+
+lower <- mean(Total) + qt(0.025, 29) * sd(Total) / sqrt(30)
+
+upper <- mean(Total) + qt(0.975, 29) * sd(Total) / sqrt(30)
+
+print(c(lower, upper))
+
+# D_2
+
+t.test(Total, alternative = "two.sided", mu = 50)
+
+# D_3
+
+aggregate(Total, by = list(Data_Midterm $ E2), FUN = mean)
+
+boxplot(Total ~ Data_Midterm $ E2)
+
+boxplot(Total ~ Data_Midterm $ E2, horizontal = T)
+
+t.test(Total ~ factor(Data_Midterm $ E2))
+
+var.test(Total ~ factor(Data_Midterm $ E2))
+
+# 카이제곱검정
+# (1)
+
+data1 <- data.frame(x = c("A", "A", "B", "A", "B"))
+data1
+
+table(data1); xtabs(~ x, data1)
+
+data2 <- data.frame(Group = c(1, 1, 2, 2), Disease = c("Yes", "No", "Yes", "No"),
+                    Count = c(2, 28, 5, 25))
+
+xtabs(Count ~ Group + Disease, data = data2)
+f2 <- xtabs(Count ~ Group + Disease, data = data2)
+
+margin.table(f2)
+
+margin.table(f2, 1)
+margin.table(f2, 2)
+
+prop.table(f2)
+
+prop.table(f2, 1)
+prop.table(f2, 2)
+
+chisq.test(f2) $ observed
+chisq.test(f2) $ expected
+
+chisq.test(f2)
+
+fisher.test(f2)
+
+# (2)
+attach(mtcars)
+
+summary(mpg)
+
+mpg.g <- ifelse(mpg >= 20, 2, 1)
+table(mpg.g)
+
+f1 <- xtabs( ~ am + mpg.g, data = mtcars)
+prop.table(f1, 1)
+
+chisq.test(f1) $ expected
+chisq.test(f1)
+
+f3 <- xtabs( ~ cyl + mpg.g, data = mtcars)
+prop.table(f3, 1)
+chisq.test(f3) $ expected
+fisher.test(f2)
+
+m <- aov(mpg ~ cyl)
+boxplot(mpg ~ factor(cyl))
+boxplot(mpg ~ factor(cyl), horizontal = T)
+
+summary(m)
