@@ -1,0 +1,201 @@
+idcode,age,race,married,never_married,grade,collgrad,south,smsa,c_city,industry,occupation,union,union2,wage,hours,ttl_exp,tenure,lnwage
+3479 ,44 ,black,single,0 ,12 ,not college grad,1 ,SMSA,1 ,Manufacturing,Clerical/unskilled,nonunion,0 ,4 ,40 ,18 ,0 ,1.393 
+3681 ,36 ,black,single,1 ,13 ,not college grad,0 ,SMSA,1 ,Business/Repair Svc,Sales,nonunion,0 ,12 ,40 ,15 ,14 ,2.452 
+3325 ,41 ,white,married,0 ,18 ,college grad,1 ,SMSA,0 ,Professional Services,Craftsmen,nonunion,0 ,13 ,40 ,18 ,3 ,2.532 
+3402 ,41 ,black,single,0 ,9 ,not college grad,1 ,SMSA,0 ,Manufacturing,Operatives,nonunion,0 ,5 ,40 ,16 ,10 ,1.629 
+5001 ,39 ,white,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Wholesale/Retail Trade,Farm laborers,nonunion,0 ,4 ,40 ,8 ,1 ,1.430 
+389 ,40 ,white,married,0 ,14 ,not college grad,0 ,SMSA,0 ,Professional Services,Sales,nonunion,0 ,5 ,15 ,2 ,0 ,1.699 
+3172 ,40 ,white,single,0 ,12 ,not college grad,0 ,SMSA,0 ,Professional Services,Managers/admin,nonunion,0 ,15 ,35 ,19 ,19 ,2.740 
+1322 ,35 ,white,married,0 ,14 ,not college grad,1 ,nonSMSA,0 ,Professional Services,Managers/admin,nonunion,0 ,7 ,40 ,11 ,0 ,2.008 
+3020 ,35 ,white,single,1 ,16 ,college grad,1 ,nonSMSA,0 ,Professional Services,Sales,nonunion,0 ,11 ,35 ,15 ,11 ,2.363 
+4198 ,39 ,white,married,0 ,10 ,not college grad,0 ,nonSMSA,0 ,Business/Repair Svc,Clerical/unskilled,nonunion,0 ,4 ,4 ,4 ,1 ,1.430 
+719 ,39 ,black,single,0 ,11 ,not college grad,0 ,SMSA,0 ,Transport/Comm/Utility,Operatives,nonunion,0 ,6 ,30 ,3 ,2 ,1.738 
+4632 ,42 ,black,married,0 ,13 ,not college grad,1 ,nonSMSA,0 ,Professional Services,Professional/technical,nonunion,0 ,4 ,40 ,15 ,11 ,1.403 
+1614 ,42 ,white,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Entertainment/Rec Svc,Sales,nonunion,0 ,3 ,40 ,3 ,1 ,1.207 
+1882 ,40 ,black,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Manufacturing,Sales,nonunion,0 ,10 ,40 ,16 ,2 ,2.270 
+2173 ,39 ,white,married,0 ,13 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Sales,nonunion,0 ,8 ,40 ,16 ,6 ,2.068 
+2391 ,44 ,black,married,0 ,10 ,not college grad,1 ,SMSA,1 ,Business/Repair Svc,Laborers,nonunion,0 ,3 ,36 ,16 ,3 ,1.019 
+4907 ,37 ,black,married,0 ,17 ,college grad,1 ,SMSA,1 ,Professional Services,Sales,nonunion,0 ,4 ,40 ,8 ,2 ,1.377 
+2059 ,37 ,white,married,0 ,16 ,college grad,0 ,SMSA,1 ,Wholesale/Retail Trade,Clerical/unskilled,nonunion,0 ,6 ,20 ,10 ,4 ,1.729 
+2092 ,36 ,white,married,0 ,16 ,college grad,0 ,nonSMSA,0 ,Professional Services,Sales,nonunion,0 ,4 ,3 ,13 ,6 ,1.287 
+2228 ,38 ,white,married,0 ,14 ,not college grad,0 ,SMSA,0 ,Manufacturing,Sales,nonunion,0 ,5 ,40 ,16 ,16 ,1.616 
+71 ,34 ,white,married,0 ,12 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Sales,nonunion,0 ,6 ,38 ,11 ,3 ,1.745 
+2183 ,39 ,white,married,0 ,12 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Operatives,nonunion,0 ,4 ,30 ,4 ,1 ,1.428 
+7 ,39 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Professional Services,Sales,nonunion,0 ,5 ,30 ,7 ,2 ,1.532 
+397 ,37 ,white,married,0 ,13 ,not college grad,0 ,SMSA,0 ,Manufacturing,Sales,nonunion,0 ,5 ,20 ,13 ,1 ,1.575 
+3166 ,44 ,black,married,0 ,10 ,not college grad,1 ,SMSA,0 ,Professional Services,Laborers,nonunion,0 ,3 ,12 ,11 ,0 ,1.078 
+2816 ,39 ,black,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Public Administration,Sales,nonunion,0 ,9 ,40 ,21 ,21 ,2.181 
+595 ,40 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Finance/Ins/Real Estate,Sales,nonunion,0 ,4 ,35 ,12 ,2 ,1.438 
+3779 ,41 ,white,single,0 ,14 ,not college grad,0 ,SMSA,0 ,Personal Services,Sales,nonunion,0 ,10 ,55 ,16 ,2 ,2.309 
+4620 ,40 ,black,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Wholesale/Retail Trade,Operatives,nonunion,0 ,6 ,40 ,10 ,3 ,1.729 
+4742 ,40 ,white,married,0 ,10 ,not college grad,1 ,nonSMSA,0 ,Professional Services,Professional/technical,nonunion,0 ,5 ,40 ,14 ,10 ,1.667 
+4282 ,36 ,black,married,0 ,13 ,not college grad,1 ,nonSMSA,0 ,Wholesale/Retail Trade,Professional/technical,nonunion,0 ,5 ,40 ,14 ,3 ,1.616 
+2418 ,36 ,black,single,0 ,12 ,not college grad,1 ,SMSA,1 ,Transport/Comm/Utility,Sales,nonunion,0 ,11 ,40 ,15 ,7 ,2.383 
+2921 ,40 ,white,married,0 ,14 ,not college grad,1 ,SMSA,0 ,Professional Services,Professional/technical,nonunion,0 ,8 ,40 ,10 ,2 ,2.047 
+2998 ,35 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Professional Services,Laborers,nonunion,0 ,4 ,8 ,5 ,2 ,1.442 
+2328 ,40 ,white,single,0 ,11 ,not college grad,0 ,SMSA,0 ,Wholesale/Retail Trade,Managers/admin,nonunion,0 ,5 ,48 ,14 ,9 ,1.658 
+3059 ,40 ,white,married,0 ,17 ,college grad,1 ,SMSA,1 ,Ag/Forestry/Fisheries,Sales,nonunion,0 ,11 ,7 ,14 ,1 ,2.363 
+4222 ,36 ,white,single,1 ,12 ,not college grad,0 ,SMSA,1 ,Professional Services,Sales,nonunion,0 ,2 ,40 ,18 ,3 ,0.679 
+2206 ,35 ,white,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Business/Repair Svc,Sales,nonunion,0 ,8 ,38 ,12 ,0 ,2.121 
+5025 ,39 ,black,single,0 ,16 ,college grad,1 ,SMSA,1 ,Professional Services,Professional/technical,nonunion,0 ,7 ,40 ,15 ,12 ,1.964 
+1784 ,35 ,black,single,0 ,14 ,not college grad,0 ,SMSA,0 ,Manufacturing,Managers/admin,nonunion,0 ,10 ,40 ,15 ,4 ,2.270 
+4017 ,40 ,white,married,0 ,12 ,not college grad,1 ,SMSA,0 ,Finance/Ins/Real Estate,Managers/admin,nonunion,0 ,7 ,40 ,13 ,4 ,1.942 
+4890 ,35 ,white,married,0 ,16 ,college grad,1 ,nonSMSA,0 ,Professional Services,Laborers,nonunion,0 ,4 ,6 ,13 ,1 ,1.393 
+3173 ,43 ,white,single,0 ,10 ,not college grad,1 ,SMSA,0 ,Manufacturing,Operatives,nonunion,0 ,6 ,40 ,9 ,9 ,1.790 
+2892 ,35 ,black,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Public Administration,Laborers,nonunion,0 ,5 ,40 ,13 ,13 ,1.568 
+2674 ,37 ,white,single,1 ,14 ,college grad,1 ,SMSA,0 ,Wholesale/Retail Trade,Managers/admin,nonunion,0 ,7 ,45 ,18 ,12 ,1.929 
+3293 ,37 ,white,married,0 ,12 ,not college grad,1 ,SMSA,0 ,Wholesale/Retail Trade,Sales,nonunion,0 ,6 ,40 ,17 ,17 ,1.729 
+2675 ,44 ,white,single,1 ,16 ,college grad,1 ,SMSA,0 ,Public Administration,Professional/technical,nonunion,0 ,16 ,40 ,18 ,8 ,2.788 
+2571 ,40 ,white,single,0 ,18 ,college grad,1 ,SMSA,1 ,Professional Services,Professional/technical,nonunion,0 ,24 ,40 ,11 ,5 ,3.178 
+2538 ,37 ,white,married,0 ,18 ,college grad,0 ,SMSA,0 ,Professional Services,Other,nonunion,0 ,8 ,60 ,15 ,3 ,2.124 
+4921 ,35 ,black,married,0 ,11 ,not college grad,1 ,SMSA,1 ,Manufacturing,Sales,nonunion,0 ,4 ,40 ,11 ,10 ,1.352 
+3955 ,35 ,white,married,0 ,16 ,college grad,0 ,SMSA,0 ,Manufacturing,Sales,nonunion,0 ,13 ,40 ,16 ,12 ,2.553 
+750 ,35 ,white,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Finance/Ins/Real Estate,Managers/admin,nonunion,0 ,5 ,40 ,15 ,5 ,1.609 
+4199 ,36 ,white,married,0 ,13 ,not college grad,1 ,SMSA,1 ,Finance/Ins/Real Estate,Managers/admin,nonunion,0 ,9 ,40 ,8 ,6 ,2.229 
+4240 ,41 ,white,single,0 ,12 ,not college grad,0 ,SMSA,1 ,Public Administration,Sales,nonunion,0 ,6 ,40 ,12 ,10 ,1.853 
+4771 ,35 ,black,married,0 ,13 ,not college grad,1 ,SMSA,0 ,Professional Services,Laborers,nonunion,0 ,6 ,30 ,7 ,1 ,1.743 
+3320 ,34 ,white,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Professional Services,Laborers,nonunion,0 ,4 ,30 ,14 ,4 ,1.358 
+1792 ,35 ,white,single,0 ,12 ,not college grad,0 ,SMSA,0 ,Wholesale/Retail Trade,Clerical/unskilled,nonunion,0 ,3 ,26 ,6 ,2 ,1.182 
+2484 ,43 ,black,single,1 ,12 ,not college grad,1 ,SMSA,1 ,Professional Services,Laborers,nonunion,0 ,5 ,20 ,5 ,1 ,1.614 
+403 ,40 ,white,single,1 ,12 ,not college grad,0 ,SMSA,0 ,Public Administration,Sales,nonunion,0 ,6 ,40 ,11 ,11 ,1.746 
+4686 ,36 ,black,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Personal Services,Operatives,nonunion,0 ,3 ,34 ,12 ,7 ,1.064 
+4334 ,41 ,black,married,0 ,15 ,college grad,1 ,SMSA,0 ,Wholesale/Retail Trade,Sales,nonunion,0 ,6 ,40 ,17 ,14 ,1.823 
+4813 ,37 ,black,married,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Manufacturing,Operatives,nonunion,0 ,3 ,40 ,16 ,5 ,1.105 
+4816 ,36 ,black,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Professional Services,Sales,nonunion,0 ,4 ,33 ,10 ,10 ,1.440 
+3664 ,37 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Finance/Ins/Real Estate,Managers/admin,nonunion,0 ,9 ,40 ,17 ,2 ,2.159 
+2148 ,42 ,white,married,0 ,12 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Sales,nonunion,0 ,5 ,40 ,18 ,2 ,1.616 
+3355 ,39 ,white,married,0 ,18 ,college grad,1 ,SMSA,0 ,Professional Services,Other,nonunion,0 ,10 ,40 ,14 ,13 ,2.347 
+4384 ,41 ,black,single,0 ,10 ,not college grad,1 ,nonSMSA,0 ,Personal Services,Transport,nonunion,0 ,3 ,58 ,10 ,0 ,0.992 
+2932 ,38 ,white,single,0 ,16 ,college grad,1 ,SMSA,0 ,Public Administration,Professional/technical,nonunion,0 ,12 ,40 ,14 ,5 ,2.516 
+1941 ,34 ,black,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Professional Services,Sales,nonunion,0 ,3 ,40 ,13 ,7 ,1.025 
+1994 ,38 ,white,married,0 ,12 ,not college grad,0 ,nonSMSA,0 ,Wholesale/Retail Trade,Craftsmen,nonunion,0 ,4 ,25 ,10 ,4 ,1.287 
+4672 ,38 ,black,married,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Professional Services,Other,nonunion,0 ,4 ,38 ,20 ,20 ,1.298 
+987 ,37 ,white,married,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Wholesale/Retail Trade,Service,nonunion,0 ,9 ,40 ,11 ,9 ,2.158 
+1729 ,38 ,white,married,0 ,15 ,not college grad,0 ,nonSMSA,0 ,Professional Services,Managers/admin,nonunion,0 ,4 ,40 ,12 ,4 ,1.341 
+2036 ,36 ,white,single,0 ,12 ,not college grad,0 ,nonSMSA,0 ,Wholesale/Retail Trade,Clerical/unskilled,nonunion,0 ,3 ,37 ,8 ,2 ,1.182 
+1829 ,41 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Construction,Service,nonunion,0 ,6 ,8 ,6 ,1 ,1.759 
+3804 ,39 ,white,single,0 ,16 ,college grad,0 ,SMSA,0 ,Professional Services,Professional/technical,nonunion,0 ,5 ,40 ,15 ,1 ,1.654 
+4823 ,44 ,white,married,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Wholesale/Retail Trade,Managers/admin,nonunion,0 ,7 ,45 ,18 ,7 ,1.916 
+5112 ,43 ,white,single,1 ,18 ,college grad,1 ,nonSMSA,0 ,Professional Services,Laborers,nonunion,0 ,2 ,60 ,16 ,2 ,0.908 
+3198 ,40 ,black,married,0 ,9 ,not college grad,1 ,nonSMSA,0 ,Personal Services,Transport,nonunion,0 ,4 ,8 ,10 ,1 ,1.260 
+1659 ,41 ,white,single,1 ,17 ,college grad,0 ,SMSA,1 ,Professional Services,Professional/technical,nonunion,0 ,13 ,40 ,16 ,5 ,2.563 
+5143 ,38 ,black,married,0 ,12 ,not college grad,1 ,SMSA,0 ,Personal Services,Operatives,nonunion,0 ,3 ,36 ,1 ,0 ,1.030 
+4438 ,42 ,white,married,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Manufacturing,Operatives,nonunion,0 ,3 ,40 ,11 ,0 ,1.022 
+1845 ,40 ,black,married,0 ,11 ,not college grad,0 ,SMSA,0 ,Professional Services,Laborers,nonunion,0 ,4 ,44 ,9 ,1 ,1.442 
+3169 ,35 ,white,married,0 ,12 ,not college grad,1 ,SMSA,0 ,Personal Services,Laborers,nonunion,0 ,5 ,37 ,15 ,4 ,1.694 
+1915 ,40 ,white,married,0 ,18 ,college grad,0 ,SMSA,0 ,Professional Services,Professional/technical,nonunion,0 ,12 ,40 ,17 ,12 ,2.485 
+4445 ,35 ,black,single,0 ,8 ,not college grad,1 ,nonSMSA,0 ,Ag/Forestry/Fisheries,Farm laborers,nonunion,0 ,3 ,40 ,4 ,1 ,0.992 
+2157 ,40 ,white,married,0 ,13 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Sales,nonunion,0 ,7 ,40 ,8 ,3 ,1.935 
+689 ,36 ,white,married,0 ,15 ,college grad,1 ,SMSA,0 ,Professional Services,Other,nonunion,0 ,6 ,40 ,8 ,1 ,1.860 
+2207 ,38 ,white,married,0 ,12 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Operatives,nonunion,0 ,6 ,40 ,17 ,10 ,1.706 
+3983 ,43 ,black,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Manufacturing,Craftsmen,nonunion,0 ,20 ,40 ,16 ,3 ,3.020 
+692 ,45 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Business/Repair Svc,Laborers,nonunion,0 ,5 ,16 ,8 ,4 ,1.616 
+312 ,36 ,white,married,0 ,15 ,college grad,0 ,SMSA,0 ,Professional Services,Professional/technical,nonunion,0 ,10 ,16 ,10 ,1 ,2.268 
+1119 ,44 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Professional Services,Laborers,nonunion,0 ,2 ,40 ,11 ,5 ,0.845 
+2730 ,39 ,white,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Professional Services,Laborers,nonunion,0 ,3 ,15 ,8 ,3 ,0.992 
+2163 ,42 ,white,single,0 ,12 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Sales,nonunion,0 ,8 ,40 ,18 ,15 ,2.047 
+4652 ,36 ,black,married,0 ,11 ,not college grad,1 ,nonSMSA,0 ,Manufacturing,Operatives,nonunion,0 ,3 ,38 ,4 ,1 ,1.030 
+4845 ,35 ,black,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Public Administration,Sales,nonunion,0 ,5 ,40 ,13 ,4 ,1.616 
+3494 ,42 ,white,single,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Manufacturing,Managers/admin,nonunion,0 ,25 ,40 ,19 ,8 ,3.225 
+4296 ,38 ,white,married,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Wholesale/Retail Trade,Managers/admin,nonunion,0 ,3 ,54 ,8 ,8 ,0.959 
+496 ,40 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Professional Services,Professional/technical,nonunion,0 ,13 ,40 ,18 ,12 ,2.553 
+1275 ,42 ,black,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Professional Services,Professional/technical,union,1 ,9 ,40 ,16 ,12 ,2.147 
+1164 ,36 ,black,single,1 ,10 ,not college grad,0 ,SMSA,1 ,Business/Repair Svc,Laborers,union,1 ,6 ,53 ,5 ,1 ,1.738 
+2 ,37 ,black,single,0 ,12 ,not college grad,0 ,SMSA,1 ,Manufacturing,Craftsmen,union,1 ,6 ,40 ,14 ,5 ,1.856 
+131 ,41 ,white,single,0 ,12 ,not college grad,0 ,SMSA,1 ,Professional Services,Sales,union,1 ,4 ,38 ,12 ,0 ,1.442 
+2877 ,43 ,black,married,0 ,9 ,not college grad,1 ,SMSA,1 ,Manufacturing,Operatives,union,1 ,4 ,40 ,17 ,4 ,1.368 
+907 ,40 ,white,single,1 ,18 ,college grad,0 ,SMSA,0 ,Professional Services,Other,union,1 ,16 ,35 ,18 ,18 ,2.795 
+1628 ,35 ,white,single,1 ,12 ,not college grad,0 ,SMSA,0 ,Wholesale/Retail Trade,Sales,union,1 ,7 ,10 ,8 ,2 ,1.900 
+4485 ,35 ,black,married,0 ,13 ,not college grad,0 ,SMSA,0 ,Manufacturing,Craftsmen,union,1 ,12 ,52 ,13 ,5 ,2.504 
+749 ,35 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Transport/Comm/Utility,Sales,union,1 ,12 ,35 ,17 ,3 ,2.484 
+3786 ,41 ,white,single,0 ,15 ,not college grad,0 ,SMSA,0 ,Public Administration,Professional/technical,union,1 ,9 ,40 ,15 ,8 ,2.187 
+431 ,36 ,white,single,1 ,16 ,college grad,0 ,nonSMSA,0 ,Public Administration,Professional/technical,union,1 ,11 ,38 ,16 ,8 ,2.434 
+2743 ,38 ,black,single,1 ,13 ,not college grad,1 ,SMSA,1 ,Personal Services,Sales,union,1 ,4 ,40 ,8 ,8 ,1.373 
+1437 ,44 ,white,single,0 ,18 ,college grad,0 ,SMSA,0 ,Professional Services,Other,union,1 ,13 ,50 ,9 ,5 ,2.565 
+3188 ,42 ,black,single,1 ,13 ,not college grad,1 ,nonSMSA,0 ,Manufacturing,Operatives,union,1 ,3 ,40 ,17 ,10 ,1.230 
+3604 ,43 ,white,single,1 ,12 ,not college grad,0 ,SMSA,1 ,Finance/Ins/Real Estate,Sales,union,1 ,6 ,48 ,17 ,17 ,1.839 
+75 ,39 ,black,single,0 ,11 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Operatives,union,1 ,13 ,40 ,14 ,9 ,2.526 
+1865 ,40 ,white,married,0 ,17 ,college grad,1 ,SMSA,1 ,Professional Services,Other,union,1 ,7 ,50 ,16 ,1 ,1.901 
+4223 ,37 ,white,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Public Administration,Sales,union,1 ,6 ,40 ,5 ,5 ,1.823 
+4330 ,42 ,black,single,0 ,12 ,not college grad,1 ,SMSA,0 ,Wholesale/Retail Trade,Sales,union,1 ,5 ,40 ,17 ,15 ,1.655 
+188 ,41 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Manufacturing,Sales,union,1 ,10 ,40 ,13 ,8 ,2.270 
+2722 ,38 ,white,single,0 ,13 ,not college grad,1 ,SMSA,1 ,Public Administration,Managers/admin,union,1 ,6 ,40 ,9 ,1 ,1.733 
+3731 ,39 ,white,single,1 ,12 ,not college grad,0 ,SMSA,1 ,Public Administration,Professional/technical,union,1 ,15 ,40 ,22 ,22 ,2.689 
+932 ,42 ,white,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Professional Services,Sales,union,1 ,6 ,35 ,18 ,12 ,1.851 
+950 ,39 ,white,married,0 ,9 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Operatives,union,1 ,6 ,40 ,15 ,11 ,1.863 
+3878 ,43 ,other,married,0 ,16 ,college grad,0 ,SMSA,0 ,Public Administration,Professional/technical,union,1 ,10 ,40 ,18 ,10 ,2.278 
+1780 ,43 ,white,married,0 ,12 ,not college grad,0 ,nonSMSA,0 ,,Operatives,union,1 ,12 ,48 ,20 ,17 ,2.472 
+2617 ,44 ,black,married,0 ,16 ,college grad,1 ,SMSA,0 ,Professional Services,Professional/technical,union,1 ,3 ,40 ,8 ,3 ,0.924 
+1490 ,39 ,white,single,0 ,18 ,college grad,0 ,nonSMSA,0 ,Public Administration,Managers/admin,union,1 ,13 ,40 ,16 ,2 ,2.578 
+4606 ,35 ,black,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Finance/Ins/Real Estate,Sales,union,1 ,5 ,40 ,10 ,0 ,1.616 
+86 ,44 ,white,single,1 ,17 ,college grad,0 ,SMSA,0 ,Entertainment/Rec Svc,Laborers,union,1 ,13 ,44 ,16 ,1 ,2.578 
+3661 ,34 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Transport/Comm/Utility,Sales,union,1 ,11 ,38 ,15 ,15 ,2.392 
+3737 ,44 ,white,married,0 ,13 ,not college grad,0 ,SMSA,0 ,Transport/Comm/Utility,Professional/technical,union,1 ,12 ,40 ,26 ,26 ,2.491 
+1891 ,40 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Wholesale/Retail Trade,Sales,union,1 ,8 ,40 ,19 ,6 ,2.086 
+3718 ,41 ,white,married,0 ,16 ,college grad,0 ,nonSMSA,0 ,Professional Services,Sales,union,1 ,6 ,40 ,9 ,7 ,1.830 
+9 ,37 ,white,single,0 ,12 ,not college grad,0 ,SMSA,1 ,Transport/Comm/Utility,Managers/admin,union,1 ,10 ,40 ,19 ,19 ,2.351 
+1515 ,44 ,white,married,0 ,16 ,college grad,0 ,SMSA,0 ,Professional Services,Sales,union,1 ,6 ,25 ,4 ,2 ,1.830 
+1819 ,43 ,white,single,0 ,12 ,not college grad,0 ,SMSA,1 ,Wholesale/Retail Trade,Clerical/unskilled,union,1 ,6 ,40 ,14 ,14 ,1.729 
+3903 ,38 ,white,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Transport/Comm/Utility,Sales,union,1 ,10 ,40 ,17 ,17 ,2.309 
+5078 ,36 ,white,married,0 ,17 ,college grad,1 ,SMSA,1 ,Professional Services,Professional/technical,union,1 ,14 ,40 ,15 ,9 ,2.635 
+1204 ,36 ,black,married,0 ,13 ,not college grad,0 ,SMSA,1 ,Transport/Comm/Utility,Operatives,union,1 ,10 ,42 ,13 ,12 ,2.348 
+2671 ,39 ,black,single,0 ,18 ,college grad,1 ,SMSA,0 ,Transport/Comm/Utility,Professional/technical,union,1 ,12 ,46 ,16 ,10 ,2.495 
+825 ,43 ,white,married,0 ,18 ,college grad,0 ,SMSA,0 ,Professional Services,Other,union,1 ,14 ,45 ,19 ,19 ,2.622 
+2046 ,38 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Manufacturing,Operatives,union,1 ,8 ,40 ,19 ,19 ,2.070 
+3411 ,35 ,white,single,0 ,13 ,not college grad,1 ,SMSA,1 ,Public Administration,Sales,union,1 ,9 ,40 ,4 ,2 ,2.204 
+1150 ,43 ,white,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Transport/Comm/Utility,Operatives,union,1 ,8 ,40 ,12 ,3 ,2.071 
+3078 ,45 ,black,married,0 ,17 ,college grad,0 ,SMSA,0 ,Professional Services,Professional/technical,union,1 ,16 ,35 ,12 ,8 ,2.803 
+2140 ,41 ,white,single,0 ,12 ,not college grad,0 ,nonSMSA,0 ,Wholesale/Retail Trade,Sales,union,1 ,8 ,48 ,16 ,0 ,2.088 
+757 ,42 ,white,single,1 ,18 ,college grad,0 ,SMSA,0 ,Professional Services,Other,union,1 ,18 ,45 ,19 ,19 ,2.903 
+1396 ,41 ,white,married,0 ,18 ,college grad,0 ,SMSA,0 ,Professional Services,Other,union,1 ,16 ,40 ,19 ,19 ,2.788 
+3844 ,40 ,white,married,0 ,11 ,not college grad,0 ,SMSA,0 ,,,union,1 ,3 ,16 ,4 ,0 ,1.154 
+4142 ,42 ,black,married,0 ,17 ,college grad,0 ,SMSA,1 ,Transport/Comm/Utility,Sales,union,1 ,10 ,40 ,12 ,5 ,2.348 
+2348 ,39 ,black,married,0 ,18 ,college grad,0 ,SMSA,1 ,Professional Services,Professional/technical,union,1 ,15 ,37 ,16 ,7 ,2.684 
+4751 ,37 ,white,single,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Public Administration,Sales,union,1 ,12 ,14 ,12 ,12 ,2.449 
+3799 ,44 ,white,married,0 ,13 ,not college grad,0 ,SMSA,1 ,Professional Services,Sales,union,1 ,5 ,25 ,4 ,4 ,1.655 
+3217 ,37 ,black,single,0 ,13 ,not college grad,1 ,SMSA,1 ,Transport/Comm/Utility,Operatives,union,1 ,8 ,20 ,6 ,3 ,2.096 
+3344 ,41 ,black,single,0 ,12 ,not college grad,1 ,SMSA,1 ,Public Administration,Professional/technical,union,1 ,7 ,40 ,18 ,0 ,1.913 
+2411 ,45 ,black,single,0 ,6 ,not college grad,1 ,SMSA,1 ,Professional Services,Laborers,union,1 ,5 ,40 ,14 ,8 ,1.532 
+5159 ,43 ,black,single,0 ,12 ,not college grad,1 ,SMSA,1 ,Professional Services,Sales,union,1 ,7 ,38 ,11 ,3 ,1.968 
+4388 ,37 ,black,married,0 ,11 ,not college grad,0 ,SMSA,0 ,Professional Services,Laborers,union,1 ,4 ,40 ,12 ,7 ,1.400 
+2510 ,37 ,white,married,0 ,11 ,not college grad,1 ,nonSMSA,0 ,Manufacturing,Service,union,1 ,5 ,40 ,7 ,6 ,1.579 
+3735 ,45 ,white,married,0 ,11 ,not college grad,1 ,nonSMSA,0 ,Business/Repair Svc,Professional/technical,union,1 ,9 ,45 ,14 ,5 ,2.247 
+1373 ,43 ,black,married,0 ,11 ,not college grad,0 ,SMSA,1 ,Professional Services,Sales,union,1 ,13 ,40 ,14 ,7 ,2.546 
+2917 ,42 ,white,married,0 ,16 ,college grad,1 ,SMSA,0 ,Professional Services,Professional/technical,union,1 ,7 ,8 ,10 ,3 ,1.981 
+269 ,40 ,white,married,0 ,16 ,college grad,0 ,SMSA,0 ,Professional Services,Other,union,1 ,3 ,14 ,8 ,2 ,1.199 
+4071 ,43 ,white,married,0 ,17 ,college grad,0 ,SMSA,0 ,Professional Services,Other,union,1 ,8 ,40 ,8 ,4 ,2.047 
+2479 ,37 ,black,married,0 ,15 ,not college grad,1 ,SMSA,0 ,Professional Services,Professional/technical,union,1 ,15 ,40 ,19 ,11 ,2.714 
+617 ,42 ,white,married,0 ,17 ,college grad,0 ,SMSA,0 ,Professional Services,Other,union,1 ,20 ,35 ,15 ,15 ,2.991 
+4835 ,37 ,black,married,0 ,12 ,not college grad,0 ,SMSA,1 ,Manufacturing,Operatives,union,1 ,10 ,40 ,7 ,7 ,2.309 
+929 ,44 ,white,married,0 ,18 ,college grad,0 ,SMSA,1 ,Professional Services,Other,union,1 ,12 ,40 ,17 ,16 ,2.452 
+1905 ,44 ,white,married,0 ,18 ,college grad,0 ,nonSMSA,0 ,Professional Services,Other,union,1 ,6 ,50 ,14 ,3 ,1.823 
+659 ,38 ,white,married,0 ,17 ,college grad,0 ,SMSA,0 ,Professional Services,Professional/technical,union,1 ,10 ,35 ,11 ,4 ,2.276 
+4382 ,42 ,black,single,0 ,9 ,not college grad,1 ,nonSMSA,0 ,Manufacturing,Operatives,union,1 ,6 ,40 ,17 ,12 ,1.745 
+2486 ,43 ,black,married,0 ,9 ,not college grad,1 ,SMSA,1 ,Public Administration,Sales,union,1 ,11 ,40 ,19 ,10 ,2.404 
+2934 ,37 ,white,single,0 ,14 ,not college grad,0 ,SMSA,0 ,Professional Services,Managers/admin,union,1 ,12 ,40 ,18 ,7 ,2.452 
+4246 ,41 ,white,single,0 ,17 ,college grad,0 ,nonSMSA,0 ,Professional Services,Other,union,1 ,10 ,40 ,4 ,2 ,2.325 
+1770 ,37 ,white,married,0 ,12 ,not college grad,0 ,nonSMSA,0 ,Manufacturing,Operatives,union,1 ,6 ,40 ,18 ,18 ,1.768 
+784 ,44 ,white,married,0 ,16 ,college grad,1 ,SMSA,1 ,Professional Services,Other,union,1 ,10 ,40 ,15 ,11 ,2.309 
+2393 ,37 ,black,married,0 ,13 ,not college grad,0 ,SMSA,0 ,Business/Repair Svc,Sales,union,1 ,12 ,37 ,17 ,9 ,2.461 
+3964 ,37 ,white,married,0 ,14 ,not college grad,0 ,SMSA,0 ,Professional Services,Sales,union,1 ,5 ,15 ,8 ,1 ,1.643 
+4441 ,42 ,black,married,0 ,6 ,not college grad,1 ,nonSMSA,0 ,Ag/Forestry/Fisheries,Farm laborers,union,1 ,3 ,35 ,6 ,1 ,1.240 
+3865 ,43 ,other,married,0 ,13 ,not college grad,0 ,SMSA,0 ,Public Administration,Sales,union,1 ,8 ,40 ,21 ,21 ,2.049 
+2886 ,38 ,black,married,0 ,17 ,college grad,1 ,SMSA,1 ,Public Administration,Sales,union,1 ,11 ,40 ,13 ,10 ,2.396 
+1830 ,39 ,white,married,0 ,18 ,college grad,0 ,SMSA,0 ,Professional Services,Other,union,1 ,11 ,48 ,17 ,9 ,2.365 
+4299 ,37 ,black,single,1 ,12 ,not college grad,0 ,SMSA,1 ,Professional Services,Sales,union,1 ,6 ,40 ,15 ,13 ,1.759 
+4195 ,36 ,white,married,0 ,17 ,college grad,0 ,nonSMSA,0 ,Professional Services,Professional/technical,union,1 ,7 ,50 ,11 ,7 ,1.873 
+1856 ,35 ,black,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Transport/Comm/Utility,Sales,union,1 ,12 ,40 ,10 ,4 ,2.446 
+123 ,41 ,other,single,0 ,6 ,not college grad,0 ,SMSA,1 ,Business/Repair Svc,Operatives,union,1 ,3 ,37 ,7 ,1 ,1.064 
+2870 ,37 ,black,married,0 ,10 ,not college grad,1 ,SMSA,1 ,Manufacturing,Operatives,union,1 ,4 ,40 ,17 ,4 ,1.373 
+3502 ,34 ,white,married,0 ,10 ,not college grad,1 ,SMSA,1 ,Wholesale/Retail Trade,Sales,union,1 ,7 ,40 ,12 ,9 ,1.952 
+2951 ,34 ,white,married,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Manufacturing,Operatives,union,1 ,4 ,35 ,8 ,4 ,1.486 
+382 ,42 ,white,single,0 ,12 ,not college grad,0 ,SMSA,0 ,Public Administration,Managers/admin,union,1 ,8 ,35 ,21 ,2 ,2.075 
+5152 ,35 ,white,married,0 ,13 ,not college grad,1 ,nonSMSA,0 ,Professional Services,Sales,union,1 ,5 ,40 ,14 ,7 ,1.616 
+72 ,36 ,white,married,0 ,12 ,not college grad,0 ,SMSA,0 ,Professional Services,Sales,union,1 ,7 ,40 ,9 ,1 ,2.009 
+2045 ,43 ,white,single,1 ,12 ,not college grad,0 ,SMSA,1 ,Manufacturing,Operatives,union,1 ,7 ,36 ,18 ,17 ,1.903 
+993 ,41 ,white,married,0 ,15 ,college grad,0 ,nonSMSA,0 ,Professional Services,Professional/technical,union,1 ,14 ,40 ,21 ,21 ,2.641 
+4911 ,34 ,white,married,0 ,12 ,not college grad,1 ,nonSMSA,0 ,Transport/Comm/Utility,Sales,union,1 ,10 ,38 ,17 ,17 ,2.259 
+3043 ,37 ,black,single,1 ,12 ,not college grad,1 ,SMSA,0 ,Manufacturing,Professional/technical,union,1 ,16 ,40 ,19 ,9 ,2.802 
+3389 ,44 ,black,married,0 ,12 ,not college grad,1 ,SMSA,1 ,Manufacturing,Operatives,union,1 ,4 ,40 ,15 ,0 ,1.393 
+4944 ,44 ,black,married,0 ,15 ,not college grad,0 ,SMSA,0 ,Professional Services,Sales,union,1 ,8 ,35 ,16 ,3 ,2.018 
+1015 ,43 ,white,single,0 ,12 ,not college grad,0 ,SMSA,0 ,Wholesale/Retail Trade,Clerical/unskilled,union,1 ,5 ,20 ,8 ,8 ,1.616 
